@@ -1,5 +1,5 @@
-# asdf-kubie [![Build Status](https://travis-ci.com/johnhamelink/asdf-kubie.svg?branch=master)](https://travis-ci.com/johnhamelink/asdf-kubie)
-asdf-vm plugin for [kubie][1], a more powerful alternative to kubectx and kubens.
+# asdf-kompose [![Build Status](https://travis-ci.com/johnhamelink/asdf-kompose.svg?branch=master)](https://travis-ci.com/johnhamelink/asdf-kompose)
+asdf-vm plugin for [kompose][1], a tool that takes a Docker Compose file and translates it into Kubernetes resources.
 
-[1]: https://github.com/sbstp/kubie
+[1]: https://github.com/kubernetes/kompose
 
